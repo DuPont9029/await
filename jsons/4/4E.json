@@ -1,0 +1,164 @@
+[
+    {
+        "giorno": "Lunedì",
+        "inizio": "8:00",
+        "fine": "9:00",
+        "posto": "Aula 1B06",
+        "nome": "matematica"
+    },
+    {
+        "giorno": "Lunedì",
+        "inizio": "9:00",
+        "fine": "10:00",
+        "posto": "Aula 1B06",
+        "nome": "TIPSI"
+    },
+    {
+        "giorno": "Lunedì",
+        "inizio": "10:00",
+        "fine": "11:00",
+        "posto": "Aula 1B06",
+        "nome": "Italiano Storia"
+    },
+    {
+        "giorno": "Lunedì",
+        "inizio": "11:00",
+        "fine": "12:00",
+        "posto": "Aula 1B06",
+        "nome": "informatica"
+    },
+    {
+        "giorno": "Lunedì",
+        "inizio": "12:00",
+        "fine": "13:00",
+        "posto": "palestra",
+        "nome": "Ed. Fisica"
+    },
+
+
+    {
+        "giorno": "Martedì",
+        "inizio": "8:00",
+        "fine": "9:00",
+        "posto": "Aula 1B06",
+        "nome": "informatica"
+    },
+    {
+        "giorno": "Martedì",
+        "inizio": "9:00",
+        "fine": "10:00",
+        "posto": "Aula 1B08 LL",
+        "nome": "Inglese"
+    },
+    {
+        "giorno": "Martedì",
+        "inizio": "10:00",
+        "fine": "11:00",
+        "posto": "Aula 1B07 LG",
+        "nome": "SIS. RETI"
+    },
+    {
+        "giorno": "Martedì",
+        "inizio": "11:00",
+        "fine": "13:00",
+        "posto": "Aula 2B04 LE",
+        "nome": "LAB. TLC"
+    },
+    
+
+    {
+        "giorno": "Mercoledì",
+        "inizio": "8:00",
+        "fine": "9:00",
+        "posto": "Aula 1B06",
+        "nome": "informatica"
+    },
+    {
+        "giorno": "Mercoledì",
+        "inizio": "9:00",
+        "fine": "10:00",
+        "posto": "4B03 LI",
+        "nome": "Lab SIS. RETI"
+    },
+    {
+        "giorno": "Mercoledì",
+        "inizio": "10:00",
+        "fine": "11:00",
+        "posto": "palestra",
+        "nome": "Ed. Fisica"
+    },
+    {
+        "giorno": "Mercoledì",
+        "inizio": "11:00",
+        "fine": "12:00",
+        "posto": "Aula 1B06",
+        "nome": "Inglese"
+    },
+    {
+        "giorno": "Mercoledì",
+        "inizio": "12:00",
+        "fine": "13:00",
+        "posto": "Aula 1B06",
+        "nome": "Italiano Storia"
+    },
+
+
+    {
+        "giorno": "Giovedì",
+        "inizio": "8:00",
+        "fine": "9:00",
+        "posto": "Aula 1B06",
+        "nome": "matematica"
+    },
+    {
+        "giorno": "Giovedì",
+        "inizio": "9:00",
+        "fine": "10:00",
+        "posto": "Aula 1B06",
+        "nome": "TLC"
+    },
+    {
+        "giorno": "Giovedì",
+        "inizio": "10:00",
+        "fine": "11:00",
+        "posto": "4B01 LI",
+        "nome": "Lab TIPSI"
+    },
+    {
+        "giorno": "Giovedì",
+        "inizio": "11:00",
+        "fine": "13:00",
+        "posto": "Aula 1B06",
+        "nome": "Italiano Storia"
+    },
+
+
+    {
+        "giorno": "Venerdì",
+        "inizio": "8:00",
+        "fine": "9:00",
+        "posto": "Aula 2C01 MT",
+        "nome": "matematica"
+    },
+    {
+        "giorno": "Venerdì",
+        "inizio": "9:00",
+        "fine": "10:00",
+        "posto": "Aula 4B01 LI",
+        "nome": "Lab SIS. RETI"
+    },
+    {
+        "giorno": "Venerdì",
+        "inizio": "10:00",
+        "fine": "12:00",
+        "posto": "Aula 1B03 LI",
+        "nome": "Lab informatica"
+    },
+    {
+        "giorno": "Venerdì",
+        "inizio": "12:00",
+        "fine": "13:00",
+        "posto": "Aula 1B07 LG",
+        "nome": "Italiano Storia"
+    }
+]

@@ -1,0 +1,27 @@
+.destra {
+    text-align: right;
+  }
+
+  .class {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    overflow: hidden;
+  }
+  
+  .centro {
+    text-align: center;
+  }
+
+
+  .title {
+    text-decoration: none;
+    color: black;
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+  }
