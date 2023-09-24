@@ -26,13 +26,13 @@ function delta(link) {
   console.log("Sezione selezionata:", selectedSezione);
   console.log("Classe selezionata:", selectedClasse);
 
-
-  link = `https://s3.cubbit.eu/tables/${selectedSezione}/${selectedSezione}${selectedClasse}.json`;
+  link = `https://github.com/DuPont9029/await/tree/main/jsons/${selectedSezione}/${selectedSezione}${selectedClasse}.json`;
+  //link = `https://s3.cubbit.eu/tables/${selectedSezione}/${selectedSezione}${selectedClasse}.json`;
   console.log(link);
   fetch(link) // Sostituisci con l'URL del tuo file JSON in S3
     .then(response => {
       if (!response.ok) {
-        throw new Error('Errore durante il caricamento del file JSON da S3');
+        throw new Error('Errore durante il caricamento del file JSON da github');
       }
       return response.json();
     })
